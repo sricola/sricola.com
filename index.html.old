@@ -1,0 +1,43 @@
+<html>
+<head>
+<title>sricola | Srivatsa Viswanathan</title>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-29025332-1']);
+  _gaq.push(['_setDomainName', 'sricola.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body background="bg.jpg">
+<img src="logo.png"><br />
+
+<a href="http://b.sricola.com" title="Blog"><img src="tumblr.png"></a><br />
+<a href="http://github.com/bitsri" title="GitHub"><img src="github.png"></a>
+<a href="http://linkedin.com/in/sricola" title="LinkedIn"><img src="linkedin.png"></a><br />
+<a href="http://facebook.com/astavirs" title="Facebook"><img src="facebook.png"></a>
+<a href="http://twitter.com/sricola" title="Twitter"><img src="twitter.png"></a>
+<a href="http://flickr.com/sri2c" title="flickr"><img src="flickr.png"></a>
+<a href="http://lastfm.com/sri01" title="last.fm"><img src="lastfm.png"></a><br />
+<a href="skype:sri.vish?call" title="Skype"><img src="skype.png"></a>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<img src="qr.png">
+
+</body>
+</html>
