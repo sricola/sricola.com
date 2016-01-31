@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html>
+<head><title>where in the world is srivatsa ray?</title>
+<style>
+#map {
+width: 500px;
+height: 400px;
+}
+</style>
+</head>
+<body><center><h1>where in the world is srivatsa ray?</h1></center><center><div id='info'>Location last updated at: 14:30:31 31/01/2016<br />Latitude: 42.3613128662<br />Longitude: -71.0198822021<br /><br /><br /></div></center><center><div id='map'></div></center>
+<script>
+function initMap() {
+var myLatLng = {lat:42.3613128662, lng:-71.0198822021};
+var mapDiv = document.getElementById('map');
+var map = new google.maps.Map(mapDiv, {
+  center: myLatLng,
+  zoom: 10
+});
+var marker = new google.maps.Marker({
+   position: myLatLng,
+   map: map,
+   title: 'Hello World!'
+ });
+}
+</script>
+<script src='https://maps.googleapis.com/maps/api/js?callback=initMap'
+async defer></script>
+<br /><br /><p align='center'>made with <3 in python using <a href="https://github.com/picklepete/pyicloud">pyicloud</a> to poll my iPhone to get its current location</p>
+</body>
+</html>
