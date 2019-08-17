@@ -6,10 +6,19 @@
     <description>Recent content in   on Sri Ray | sricola</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2019 20:16:11 -0400</lastBuildDate>
     
 	<atom:link href="https://sricola.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Contact</title>
+      <link>https://sricola.com/contact/</link>
+      <pubDate>Fri, 16 Aug 2019 20:16:11 -0400</pubDate>
+      
+      <guid>https://sricola.com/contact/</guid>
+      <description> Your Name Email Address An email address is required.  Message   </description>
+    </item>
     
     <item>
       <title>SRECon Singapore, 2019</title>

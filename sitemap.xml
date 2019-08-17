@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sricola.com/talks/</loc>
+    <loc>https://sricola.com/</loc>
     <lastmod>2019-08-16T20:16:11-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sricola.com/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+    <loc>https://sricola.com/contact/</loc>
+    <lastmod>2019-08-16T20:16:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/talks/</loc>
+    <lastmod>2019-08-16T20:16:11-04:00</lastmod>
   </url>
   
   <url>
