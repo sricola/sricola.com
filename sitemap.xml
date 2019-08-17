@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://sricola.com/talks/</loc>
+    <lastmod>2019-08-16T20:16:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/talks/sre-con-2019/</loc>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/</loc>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/blog/after-a-million-miles/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/blog/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/blog/lga-expressway-approach/</loc>
+    <lastmod>2019-01-25T18:55:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/blog/32-a-year/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/blog/31-a-year/</loc>
+    <lastmod>2017-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/blog/incident-response/</loc>
+    <lastmod>2017-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/blog/tech-in-my-backpack/</loc>
+    <lastmod>2017-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/talks/altitude-2017/</loc>
+    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/blog/checklists/</loc>
+    <lastmod>2017-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/blog/most-wanted-iphone-feature/</loc>
+    <lastmod>2016-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/tags/</loc>
+  </url>
+  
+</urlset>
