@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nomad on Sri Ray | sricola</title>
+    <link>https://sricola.com/tags/nomad/</link>
+    <description>Recent content in nomad on Sri Ray | sricola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sricola.com/tags/nomad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Digital Nomad Life: tech in my backpack</title>
+      <link>https://sricola.com/blog/tech-in-my-backpack/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sricola.com/blog/tech-in-my-backpack/</guid>
+      <description>Anything that goes into my backpack has to earn its place there.
+This past year, I have lived in 6 continents, 17 countries, 7 time zones and 21 cities. All this while working a full time job, remotely.
+Work is my primary goal. Work is what enables me to live this life. So obviously, being connected is the center of my focus. Additionally, I am part of the Infrastructure team at BuzzFeed, which means, I have to be oncall for a week every month and be generally available 24&amp;frasl;7, at other times.</description>
+    </item>
+    
+  </channel>
+</rss>

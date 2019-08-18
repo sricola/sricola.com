@@ -6,9 +6,64 @@
     <description>Recent content in Tags on Sri Ray | sricola</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sricola.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>travel</title>
+      <link>https://sricola.com/tags/travel/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sricola.com/tags/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aviation</title>
+      <link>https://sricola.com/tags/aviation/</link>
+      <pubDate>Fri, 25 Jan 2019 18:55:38 -0400</pubDate>
+      
+      <guid>https://sricola.com/tags/aviation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>https://sricola.com/tags/tech/</link>
+      <pubDate>Fri, 25 Jan 2019 18:55:38 -0400</pubDate>
+      
+      <guid>https://sricola.com/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nomad</title>
+      <link>https://sricola.com/tags/nomad/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sricola.com/tags/nomad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iphone</title>
+      <link>https://sricola.com/tags/iphone/</link>
+      <pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sricola.com/tags/iphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photos</title>
+      <link>https://sricola.com/tags/photos/</link>
+      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://sricola.com/tags/photos/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

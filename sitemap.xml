@@ -38,12 +38,52 @@
   </url>
   
   <url>
+    <loc>https://sricola.com/tags/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/tags/travel/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/tags/aviation/</loc>
+    <lastmod>2019-01-25T18:55:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/categories/aviation/</loc>
+    <lastmod>2019-01-25T18:55:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/categories/</loc>
+    <lastmod>2019-01-25T18:55:38-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sricola.com/blog/lga-expressway-approach/</loc>
     <lastmod>2019-01-25T18:55:38-04:00</lastmod>
   </url>
   
   <url>
+    <loc>https://sricola.com/categories/tech/</loc>
+    <lastmod>2019-01-25T18:55:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/tags/tech/</loc>
+    <lastmod>2019-01-25T18:55:38-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sricola.com/blog/32-a-year/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/categories/year-in-review/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,6 +103,16 @@
   </url>
   
   <url>
+    <loc>https://sricola.com/tags/nomad/</loc>
+    <lastmod>2017-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/categories/travel/</loc>
+    <lastmod>2017-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sricola.com/talks/altitude-2017/</loc>
     <lastmod>2017-06-13T00:00:00+00:00</lastmod>
   </url>
@@ -73,16 +123,23 @@
   </url>
   
   <url>
+    <loc>https://sricola.com/tags/iphone/</loc>
+    <lastmod>2016-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sricola.com/blog/most-wanted-iphone-feature/</loc>
     <lastmod>2016-06-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sricola.com/categories/</loc>
+    <loc>https://sricola.com/blog/2015-black-and-white/</loc>
+    <lastmod>2015-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sricola.com/tags/</loc>
+    <loc>https://sricola.com/tags/photos/</loc>
+    <lastmod>2015-12-31T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
