@@ -6,10 +6,28 @@
     <description>Recent content in Categories on Sri Ray | sricola</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Jan 2019 18:55:38 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 17 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sricola.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>personal finance</title>
+      <link>https://sricola.com/categories/personal-finance/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sricola.com/categories/personal-finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>https://sricola.com/categories/tech/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sricola.com/categories/tech/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>aviation</title>
@@ -17,15 +35,6 @@
       <pubDate>Fri, 25 Jan 2019 18:55:38 -0400</pubDate>
       
       <guid>https://sricola.com/categories/aviation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tech</title>
-      <link>https://sricola.com/categories/tech/</link>
-      <pubDate>Fri, 25 Jan 2019 18:55:38 -0400</pubDate>
-      
-      <guid>https://sricola.com/categories/tech/</guid>
       <description></description>
     </item>
     
