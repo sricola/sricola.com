@@ -65,5 +65,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>f1</title>
+      <link>https://sricola.com/categories/f1/</link>
+      <pubDate>Wed, 22 Jan 2014 18:55:38 -0400</pubDate>
+      
+      <guid>https://sricola.com/categories/f1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sports</title>
+      <link>https://sricola.com/categories/sports/</link>
+      <pubDate>Wed, 22 Jan 2014 18:55:38 -0400</pubDate>
+      
+      <guid>https://sricola.com/categories/sports/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -78,12 +78,12 @@
   </url>
   
   <url>
-    <loc>https://sricola.com/categories/aviation/</loc>
+    <loc>https://sricola.com/tags/aviation/</loc>
     <lastmod>2019-01-25T18:55:38-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sricola.com/tags/aviation/</loc>
+    <loc>https://sricola.com/categories/aviation/</loc>
     <lastmod>2019-01-25T18:55:38-04:00</lastmod>
   </url>
   
@@ -185,6 +185,31 @@
   <url>
     <loc>https://sricola.com/tags/netherlands/</loc>
     <lastmod>2014-04-19T18:55:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/categories/f1/</loc>
+    <lastmod>2014-01-22T18:55:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/tags/f1/</loc>
+    <lastmod>2014-01-22T18:55:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/blog/schumacher-isnt-my-hero/</loc>
+    <lastmod>2014-01-22T18:55:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/tags/sports/</loc>
+    <lastmod>2014-01-22T18:55:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/categories/sports/</loc>
+    <lastmod>2014-01-22T18:55:38-04:00</lastmod>
   </url>
   
 </urlset>
