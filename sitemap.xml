@@ -48,12 +48,12 @@
   </url>
   
   <url>
-    <loc>https://sricola.com/categories/tech/</loc>
+    <loc>https://sricola.com/tags/tech/</loc>
     <lastmod>2019-08-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sricola.com/tags/tech/</loc>
+    <loc>https://sricola.com/categories/tech/</loc>
     <lastmod>2019-08-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -155,6 +155,36 @@
   <url>
     <loc>https://sricola.com/tags/photos/</loc>
     <lastmod>2015-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/blog/baarle-hertog-baarle-nassau/</loc>
+    <lastmod>2014-04-19T18:55:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/tags/belgium/</loc>
+    <lastmod>2014-04-19T18:55:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/categories/borders/</loc>
+    <lastmod>2014-04-19T18:55:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/tags/borders/</loc>
+    <lastmod>2014-04-19T18:55:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/tags/europe/</loc>
+    <lastmod>2014-04-19T18:55:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/tags/netherlands/</loc>
+    <lastmod>2014-04-19T18:55:38-04:00</lastmod>
   </url>
   
 </urlset>
