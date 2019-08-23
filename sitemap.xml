@@ -48,12 +48,12 @@
   </url>
   
   <url>
-    <loc>https://sricola.com/tags/tech/</loc>
+    <loc>https://sricola.com/categories/tech/</loc>
     <lastmod>2019-08-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sricola.com/categories/tech/</loc>
+    <loc>https://sricola.com/tags/tech/</loc>
     <lastmod>2019-08-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,12 +78,12 @@
   </url>
   
   <url>
-    <loc>https://sricola.com/tags/aviation/</loc>
+    <loc>https://sricola.com/categories/aviation/</loc>
     <lastmod>2019-01-25T18:55:38-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sricola.com/categories/aviation/</loc>
+    <loc>https://sricola.com/tags/aviation/</loc>
     <lastmod>2019-01-25T18:55:38-04:00</lastmod>
   </url>
   
@@ -168,12 +168,12 @@
   </url>
   
   <url>
-    <loc>https://sricola.com/categories/borders/</loc>
+    <loc>https://sricola.com/tags/borders/</loc>
     <lastmod>2014-04-19T18:55:38-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sricola.com/tags/borders/</loc>
+    <loc>https://sricola.com/categories/borders/</loc>
     <lastmod>2014-04-19T18:55:38-04:00</lastmod>
   </url>
   
@@ -203,13 +203,28 @@
   </url>
   
   <url>
+    <loc>https://sricola.com/categories/sports/</loc>
+    <lastmod>2014-01-22T18:55:38-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sricola.com/tags/sports/</loc>
     <lastmod>2014-01-22T18:55:38-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sricola.com/categories/sports/</loc>
-    <lastmod>2014-01-22T18:55:38-04:00</lastmod>
+    <loc>https://sricola.com/blog/an-ode-to-a-dying-friend/</loc>
+    <lastmod>2013-09-29T18:55:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/categories/blackberry/</loc>
+    <lastmod>2013-09-29T18:55:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sricola.com/tags/blackberry/</loc>
+    <lastmod>2013-09-29T18:55:38-04:00</lastmod>
   </url>
   
 </urlset>
