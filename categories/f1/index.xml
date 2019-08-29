@@ -1,25 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>f1 on Sri Ray | sricola</title>
-    <link>https://sricola.com/categories/f1/</link>
-    <description>Recent content in f1 on Sri Ray | sricola</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jan 2014 18:55:38 -0400</lastBuildDate>
-    
-	<atom:link href="https://sricola.com/categories/f1/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Schumacher isn’t my Hero, my Mother is. But he taught me a lot about life.</title>
-      <link>https://sricola.com/blog/schumacher-isnt-my-hero/</link>
-      <pubDate>Wed, 22 Jan 2014 18:55:38 -0400</pubDate>
-      
-      <guid>https://sricola.com/blog/schumacher-isnt-my-hero/</guid>
-      <description>The year was 1996. I picked Michael Schumacher as the guy to support - not because I knew a lot about Formula One or the man himself - but because picking him would mean I could pick someone to pit against my brother’s favorite. I was 9 after all. All I wanted to do was annoy my older brother. Man, did I make a great choice or what.
-Its all about winning Jerez, European GrandPrix, 1997.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>f1 on Sri Ray | sricola</title><link>https://sricola.com/categories/f1/</link><description>Recent content in f1 on Sri Ray | sricola</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 22 Jan 2014 18:55:38 -0400</lastBuildDate><atom:link href="https://sricola.com/categories/f1/index.xml" rel="self" type="application/rss+xml"/><item><title>Schumacher isn’t my Hero, my Mother is. But he taught me a lot about life.</title><link>https://sricola.com/blog/schumacher-isnt-my-hero/</link><pubDate>Wed, 22 Jan 2014 18:55:38 -0400</pubDate><guid>https://sricola.com/blog/schumacher-isnt-my-hero/</guid><description>The year was 1996. I picked Michael Schumacher as the guy to support - not because I knew a lot about Formula One or the man himself - but because picking him would mean I could pick someone to pit against my brother’s favorite. I was 9 after all. All I wanted to do was annoy my older brother. Man, did I make a great choice or what.
+Its all about winning Jerez, European GrandPrix, 1997.</description></item></channel></rss>

@@ -1,25 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Belgium on Sri Ray | sricola</title>
-    <link>https://sricola.com/tags/belgium/</link>
-    <description>Recent content in Belgium on Sri Ray | sricola</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 19 Apr 2014 18:55:38 -0400</lastBuildDate>
-    
-	<atom:link href="https://sricola.com/tags/belgium/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>A Town in Two Countries - The Baarle Problem</title>
-      <link>https://sricola.com/blog/baarle-hertog-baarle-nassau/</link>
-      <pubDate>Sat, 19 Apr 2014 18:55:38 -0400</pubDate>
-      
-      <guid>https://sricola.com/blog/baarle-hertog-baarle-nassau/</guid>
-      <description>With a combined population of less than 8000 - Baarle-Hertog and Baarle-Nassau are off the beaten tourist path. I will admit that not many people would crave to go there. Between getting high in Amsterdam and the beers of Belgium - it is not very uncommon for tourists to completely skip this little gem of International Co-operation.
-It is a situation that arose out of a land swap deal during the monarch days of Belgium and the Netherlands.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Belgium on Sri Ray | sricola</title><link>https://sricola.com/tags/belgium/</link><description>Recent content in Belgium on Sri Ray | sricola</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 19 Apr 2014 18:55:38 -0400</lastBuildDate><atom:link href="https://sricola.com/tags/belgium/index.xml" rel="self" type="application/rss+xml"/><item><title>A Town in Two Countries - The Baarle Problem</title><link>https://sricola.com/blog/baarle-hertog-baarle-nassau/</link><pubDate>Sat, 19 Apr 2014 18:55:38 -0400</pubDate><guid>https://sricola.com/blog/baarle-hertog-baarle-nassau/</guid><description>With a combined population of less than 8000 - Baarle-Hertog and Baarle-Nassau are off the beaten tourist path. I will admit that not many people would crave to go there. Between getting high in Amsterdam and the beers of Belgium - it is not very uncommon for tourists to completely skip this little gem of International Co-operation.
+It is a situation that arose out of a land swap deal during the monarch days of Belgium and the Netherlands.</description></item></channel></rss>
