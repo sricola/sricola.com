@@ -1,0 +1,49 @@
+
+
+<canvas id='most' width="400" height="400"></canvas>
+<script type="text/javascript">
+  var ctx = document.getElementById('most').getContext('2d');
+  var chart = new Chart(ctx, {
+      // The type of chart we want to create
+      type: 'horizontalBar',
+
+      // The data for our dataset
+      data: {
+    labels: ["5 Av/53 St",
+        "Spring St",
+        "Prince St",
+        "Times Sq-42 St"
+        ],
+    datasets: [
+        {
+            label: "Week of Jan 19",
+            backgroundColor: "blue",
+            data: [117410,76399,67446,79424]
+        },
+        {
+            label: "Week of Mar 8",
+            backgroundColor: "red",
+            data: [94626,53429,47055,60064]
+        },
+        {
+            label: "Week of Mar 16",
+            backgroundColor: "green",
+            data: [19330,12591,11054,18752]
+        }
+    ]
+},
+
+
+      // Configuration options go here
+options: {
+        barValueSpacing: 20,
+        scales: {
+            yAxes: [{
+                ticks: {
+                    min: 0,
+                }
+            }]
+        }
+    }
+  });
+</script>

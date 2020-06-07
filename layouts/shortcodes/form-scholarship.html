@@ -1,0 +1,36 @@
+{{ $.Scratch.Add "labelClasses" "f6 b db mb1 mt3 sans-serif mid-gray" }}
+{{ $.Scratch.Add "inputClasses" "w-100 f5 pv3 ph3 bg-light-gray bn" }}
+
+<form class="black-80 sans-serif" accept-charset="UTF-8" action="{{ .Get "action" }}" method="POST" role="form">
+
+    <label class="{{ $.Scratch.Get "labelClasses" }}"  for="name">Your Name</label>
+    <input type="text" id="name" name="name" class="{{ $.Scratch.Get "inputClasses" }}"  required placeholder=" "  aria-labelledby="name"/>
+
+    <label class="{{ $.Scratch.Get "labelClasses" }}" for="email">Email Address</label>
+    <input type="email" id="email" name="email" class="{{ $.Scratch.Get "inputClasses" }}"  required placeholder=" "  aria-labelledby="email"/>
+    <div class="requirements f6 gray glow i ph3 overflow-hidden">
+      So I can contact you. No spam, no nonsense.
+    </div>
+
+    <label class="{{ $.Scratch.Get "labelClasses" }}" for="email">Twitter Handle</label>
+    <input type="twitter" id="twitter" name="twitter" class="{{ $.Scratch.Get "inputClasses" }}"  required placeholder=" "  aria-labelledby="twitter"/>
+    <div class="requirements f6 gray glow i ph3 overflow-hidden">
+      Don't sweat it if you don't have one.
+    </div>
+	
+
+    <label class="{{ $.Scratch.Get "labelClasses" }}" for="email">Code Repos (github, gitlab etc)</label>
+    <input type="coderepo" id="coderepo" name="coderepo" class="{{ $.Scratch.Get "inputClasses" }}"  required placeholder=" "  aria-labelledby="coderepo"/>
+    <div class="requirements f6 gray glow i ph3 overflow-hidden">
+      Again, totally optional.
+    </div>
+	
+    <label class="{{ $.Scratch.Get "labelClasses" }}" for="message">Tell me more!</label>
+    <textarea id="message" name="message" class="{{ $.Scratch.Get "inputClasses" }} h4" aria-labelledby="message"></textarea>
+    <div class="requirements f6 gray glow i ph3 overflow-hidden">
+      Something that describes your need and the opportunity you are pursuing. Please include what airports you need to fly in and out of, and dates.
+    </div>
+	<br />
+    <input class="db w-100 mv2 white pa3 bn hover-shadow hover-bg-blck bg-animate bg-black" type="submit" value="Fly Away!" />
+
+</form>

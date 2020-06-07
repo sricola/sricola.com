@@ -1,0 +1,58 @@
+{{ if not (.Page.Scratch.Get "chartjs") }}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
+{{ .Page.Scratch.Set "chartjs" true }}
+{{ end }}
+
+{{ if not (.Page.Scratch.Get "jquery") }}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+{{ .Page.Scratch.Set "jquery" true }}
+{{ end }}
+
+<canvas id='weekly' width="400" height="400"></canvas>
+<script type="text/javascript">
+  var ctx = document.getElementById('weekly').getContext('2d');
+  var chart = new Chart(ctx, {
+    // The type of chart we want to create
+    type: 'horizontalBar',
+
+    // The data for our dataset
+    data: {
+      labels: [
+        "34th St Penn Station",
+        "14 St - Union Square",
+        "Rockefeller Center",
+        "34 St - Herald Sq"
+      ],
+    datasets: [
+      {
+        label: "Week of Jan 19",
+        backgroundColor: "blue",
+        data: [415707,300653,307910,215110]
+      },
+      {
+        label: "Week of Mar 8",
+        backgroundColor: "red",
+        data: [306987,266034,216516,152399]
+      },
+      {
+        label: "Week of Mar 16",
+        backgroundColor: "green",
+        data: [79921,85654,70283,54664]
+      }
+    ]
+  },
+
+
+  // Configuration options go here
+  options: {
+    barValueSpacing: 20,
+    scales: {
+      yAxes: [{
+        ticks: {
+          min: 0,
+        }
+      }]
+    }
+  }
+});
+</script>

@@ -1,0 +1,40 @@
+baseURL = "https://sricola.com/"
+languageCode = "en-us"
+title = "Sri Ray | sricola"
+theme = "ananke"
+googleAnalytics = "UA-69479583-1"
+disqusShortname = "sricola-com"
+
+[params]
+  favicon = ""
+  description = "sricola"
+  twitter = "https://twitter.com/sricola"
+  instagram = "https://instagram.com/sricola"
+  github = "https://github.com/sricola"
+  background_color_class = "bg-black"
+  recent_posts_number = 2
+[taxonomies]
+   tag = "tags"
+   category = "categories"
+
+[menu]
+	[[menu.main]]
+		identifier = "Blog"
+		name = "Blog"
+		url = "/blog"
+		weight = -100
+	[[menu.main]]
+		identifier = "Talks"
+		name = "Talks"
+		url = "/talks"
+		weight = -90
+	[[menu.main]]
+		identifier = "Contact"
+		name = "Contact"
+		url = "/contact"
+		weight = -80
+	[[menu.main]]
+		identifier = "Travel Scholarship"
+		name = "Travel Scholarship"
+		url = "/travel-scholarship"
+		weight = -80
