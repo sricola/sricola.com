@@ -19,6 +19,11 @@ disqusShortname = "sricola-com"
 
 [menu]
 	[[menu.main]]
+		identifier = "Buy Me a Coffee"
+		name = "Buy Me a Coffee"
+		url = "https://sri.fyi/coffee"
+		weight = -110
+	[[menu.main]]
 		identifier = "Blog"
 		name = "Blog"
 		url = "/blog"
