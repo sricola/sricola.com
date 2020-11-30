@@ -2,8 +2,6 @@ baseURL = "https://sricola.com/"
 languageCode = "en-us"
 title = "Sri Ray | sricola"
 theme = "ananke"
-googleAnalytics = "UA-69479583-1"
-disqusShortname = "sricola-com"
 
 [params]
   favicon = ""
@@ -16,7 +14,6 @@ disqusShortname = "sricola-com"
 [taxonomies]
    tag = "tags"
    category = "categories"
-
 [menu]
 	[[menu.main]]
 		identifier = "Buy Me a Coffee"
